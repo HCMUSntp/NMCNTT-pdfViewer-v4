@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    card_view:cardCornerRadius="8dp"
+    card_view:cardElevation="8dp">
+
+    <ImageView
+        android:id="@+id/imv_iconlist"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:src="@drawable/ic_menu_gallery"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="10dp"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_name"
+            android:layout_weight="1"
+            android:textSize="25sp"
+            android:text="Name"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:paddingLeft="40dp"
+            android:paddingRight="40dp"
+            android:layout_weight="1">
+
+            <TextView
+                android:id="@+id/tv_row"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="Dong = "
+                android:layout_weight="1"/>
+            <TextView
+                android:id="@+id/tv_col"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:text="Cot = "
+                android:layout_weight="1"/>
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

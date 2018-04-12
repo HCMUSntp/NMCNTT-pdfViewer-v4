@@ -1,0 +1,268 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.github.barteksc:android-pdf-viewer:3.0.0-beta.5] /Users/mac/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.0.0-beta.5.aar/c40f6199bd1a089b11e6f40792f4a61b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/570e188984c88a28817c67c48bee4854/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b460fd5e0cbd2f5d664883fb4ef97f9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha1.aar/2b1f8b22f3998928ad6a3a47036ec08b/AndroidManifest.xml:17:1-23:12
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/2a7e62487fa8fa339f49b00b54eef64b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.barteksc:pdfium-android:1.8.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.8.2.aar/56f458ed2822153343418219aa3c9f6b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ccbf0e54c17c7afe63a91be3ebba8dec/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e5e7096748cbf886014df103176ef482/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e08973a8b5f200030fc85aecd6a5ce9c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/09d9414ded7d5c3956f97e168924291f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/e68fc16a6cf3016fd14ec9a21dca74ff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/686b1d62206f766bf1bb72cecd8cad45/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/00f895df07197e8164cddbfb28199d49/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9d48ab19bba175875f2f533411a53742/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/63659190688c85acabede9f235a99352/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bea0b3ad6a50b39dfe2d286dca34e02b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c74dc77a7611597371683e53831e85f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7f6bbaaf40a830664f05314f76c3d981/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e8cfc5736693fc1d95b51c896895cb6d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/fc886895a3311e64b442d6564d3b3e73/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/345ba4fc8fb1cee4a99a29afd306cd2a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/93ca55bb40e7412baa347fa4feb99f47/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/92334550384e0b202385c9b72e6e01b3/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fb58c72aa82277132717e172a20962a7/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e3dd47a52958b78876db8af58b30bf18/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:5:22-77
+application
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:7:5-31:19
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/570e188984c88a28817c67c48bee4854/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/570e188984c88a28817c67c48bee4854/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b460fd5e0cbd2f5d664883fb4ef97f9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b460fd5e0cbd2f5d664883fb4ef97f9/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/2a7e62487fa8fa339f49b00b54eef64b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/2a7e62487fa8fa339f49b00b54eef64b/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ccbf0e54c17c7afe63a91be3ebba8dec/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ccbf0e54c17c7afe63a91be3ebba8dec/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e5e7096748cbf886014df103176ef482/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e5e7096748cbf886014df103176ef482/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e08973a8b5f200030fc85aecd6a5ce9c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e08973a8b5f200030fc85aecd6a5ce9c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/09d9414ded7d5c3956f97e168924291f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/09d9414ded7d5c3956f97e168924291f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/e68fc16a6cf3016fd14ec9a21dca74ff/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/e68fc16a6cf3016fd14ec9a21dca74ff/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/686b1d62206f766bf1bb72cecd8cad45/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/686b1d62206f766bf1bb72cecd8cad45/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/00f895df07197e8164cddbfb28199d49/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/00f895df07197e8164cddbfb28199d49/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9d48ab19bba175875f2f533411a53742/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9d48ab19bba175875f2f533411a53742/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/63659190688c85acabede9f235a99352/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/63659190688c85acabede9f235a99352/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bea0b3ad6a50b39dfe2d286dca34e02b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bea0b3ad6a50b39dfe2d286dca34e02b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c74dc77a7611597371683e53831e85f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c74dc77a7611597371683e53831e85f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7f6bbaaf40a830664f05314f76c3d981/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7f6bbaaf40a830664f05314f76c3d981/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e8cfc5736693fc1d95b51c896895cb6d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e8cfc5736693fc1d95b51c896895cb6d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/fc886895a3311e64b442d6564d3b3e73/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/fc886895a3311e64b442d6564d3b3e73/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/345ba4fc8fb1cee4a99a29afd306cd2a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/345ba4fc8fb1cee4a99a29afd306cd2a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/93ca55bb40e7412baa347fa4feb99f47/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/93ca55bb40e7412baa347fa4feb99f47/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/92334550384e0b202385c9b72e6e01b3/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/92334550384e0b202385c9b72e6e01b3/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fb58c72aa82277132717e172a20962a7/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fb58c72aa82277132717e172a20962a7/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e3dd47a52958b78876db8af58b30bf18/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e3dd47a52958b78876db8af58b30bf18/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.haituan.nmcntt.MainActivity
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.example.haituan.nmcntt.ReadInputActivity
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:24:9-55
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:24:19-52
+activity#com.example.haituan.nmcntt.OutputActivity
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:25:9-52
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:25:19-49
+activity#com.example.haituan.nmcntt.ShowSolution
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:26:9-50
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:26:19-47
+activity#com.example.haituan.nmcntt.TaiLieu
+ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:27:9-54
+	android:name
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml:27:19-42
+uses-sdk
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+MERGED from [com.github.barteksc:android-pdf-viewer:3.0.0-beta.5] /Users/mac/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.0.0-beta.5.aar/c40f6199bd1a089b11e6f40792f4a61b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:3.0.0-beta.5] /Users/mac/.gradle/caches/transforms-1/files-1.1/android-pdf-viewer-3.0.0-beta.5.aar/c40f6199bd1a089b11e6f40792f4a61b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/570e188984c88a28817c67c48bee4854/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/570e188984c88a28817c67c48bee4854/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b460fd5e0cbd2f5d664883fb4ef97f9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b460fd5e0cbd2f5d664883fb4ef97f9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha1.aar/2b1f8b22f3998928ad6a3a47036ec08b/AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha1] /Users/mac/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-alpha1.aar/2b1f8b22f3998928ad6a3a47036ec08b/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/2a7e62487fa8fa339f49b00b54eef64b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.8.0.aar/2a7e62487fa8fa339f49b00b54eef64b/AndroidManifest.xml:5:5-44
+MERGED from [com.github.barteksc:pdfium-android:1.8.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.8.2.aar/56f458ed2822153343418219aa3c9f6b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.8.2] /Users/mac/.gradle/caches/transforms-1/files-1.1/pdfium-android-1.8.2.aar/56f458ed2822153343418219aa3c9f6b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ccbf0e54c17c7afe63a91be3ebba8dec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ccbf0e54c17c7afe63a91be3ebba8dec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e5e7096748cbf886014df103176ef482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e5e7096748cbf886014df103176ef482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e08973a8b5f200030fc85aecd6a5ce9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e08973a8b5f200030fc85aecd6a5ce9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/09d9414ded7d5c3956f97e168924291f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/09d9414ded7d5c3956f97e168924291f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/e68fc16a6cf3016fd14ec9a21dca74ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.8.0.aar/e68fc16a6cf3016fd14ec9a21dca74ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/686b1d62206f766bf1bb72cecd8cad45/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/686b1d62206f766bf1bb72cecd8cad45/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/00f895df07197e8164cddbfb28199d49/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/00f895df07197e8164cddbfb28199d49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9d48ab19bba175875f2f533411a53742/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9d48ab19bba175875f2f533411a53742/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/63659190688c85acabede9f235a99352/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/63659190688c85acabede9f235a99352/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bea0b3ad6a50b39dfe2d286dca34e02b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bea0b3ad6a50b39dfe2d286dca34e02b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c74dc77a7611597371683e53831e85f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c74dc77a7611597371683e53831e85f/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7f6bbaaf40a830664f05314f76c3d981/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7f6bbaaf40a830664f05314f76c3d981/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e8cfc5736693fc1d95b51c896895cb6d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e8cfc5736693fc1d95b51c896895cb6d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/fc886895a3311e64b442d6564d3b3e73/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-11.8.0.aar/fc886895a3311e64b442d6564d3b3e73/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/345ba4fc8fb1cee4a99a29afd306cd2a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/345ba4fc8fb1cee4a99a29afd306cd2a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/93ca55bb40e7412baa347fa4feb99f47/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/93ca55bb40e7412baa347fa4feb99f47/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/92334550384e0b202385c9b72e6e01b3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-vision-common-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-11.8.0.aar/92334550384e0b202385c9b72e6e01b3/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fb58c72aa82277132717e172a20962a7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fb58c72aa82277132717e172a20962a7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e3dd47a52958b78876db8af58b30bf18/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/e3dd47a52958b78876db8af58b30bf18/AndroidManifest.xml:4:5-43
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/AndroidStudioProjects/NMCNTT-2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/570e188984c88a28817c67c48bee4854/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/570e188984c88a28817c67c48bee4854/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ccbf0e54c17c7afe63a91be3ebba8dec/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/ccbf0e54c17c7afe63a91be3ebba8dec/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e5e7096748cbf886014df103176ef482/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/e5e7096748cbf886014df103176ef482/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e08973a8b5f200030fc85aecd6a5ce9c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/e08973a8b5f200030fc85aecd6a5ce9c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/09d9414ded7d5c3956f97e168924291f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/09d9414ded7d5c3956f97e168924291f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9d48ab19bba175875f2f533411a53742/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/9d48ab19bba175875f2f533411a53742/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/63659190688c85acabede9f235a99352/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/63659190688c85acabede9f235a99352/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bea0b3ad6a50b39dfe2d286dca34e02b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/bea0b3ad6a50b39dfe2d286dca34e02b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c74dc77a7611597371683e53831e85f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/1c74dc77a7611597371683e53831e85f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7f6bbaaf40a830664f05314f76c3d981/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7f6bbaaf40a830664f05314f76c3d981/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e8cfc5736693fc1d95b51c896895cb6d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/e8cfc5736693fc1d95b51c896895cb6d/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/c38c6e3ba7c945756294f4e4fd86ba2d/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/fbc7ff5aaa5b6ababe9e8af9ca4ba062/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/00f895df07197e8164cddbfb28199d49/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/00f895df07197e8164cddbfb28199d49/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/00f895df07197e8164cddbfb28199d49/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fb58c72aa82277132717e172a20962a7/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fb58c72aa82277132717e172a20962a7/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/mac/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/fb58c72aa82277132717e172a20962a7/AndroidManifest.xml:26:13-58

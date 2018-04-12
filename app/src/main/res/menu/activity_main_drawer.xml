@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_add"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Cộng" />
+        <item
+            android:id="@+id/nav_sub"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Trừ" />
+        <item
+            android:id="@+id/nav_mul"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Nhân" />
+
+        <item
+            android:id="@+id/nav_bac_thang"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Bậc Thang" />
+        <item
+            android:id="@+id/nav_bac_thang_RG"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Bậc Thang Rút Gọn" />
+        <item
+            android:id="@+id/nav_nghich_dao"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Nghịch Đảo" />
+        <item
+            android:id="@+id/nav_det"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Định Thức" />
+        <item
+            android:id="@+id/nav_tai_lieu"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tài Liệu" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
